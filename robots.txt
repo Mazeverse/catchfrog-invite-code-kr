@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://catchfrog.추천인코드.com/sitemap.xml
